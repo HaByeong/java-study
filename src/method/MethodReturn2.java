@@ -3,8 +3,7 @@ package method;
 public class MethodReturn2 {
 
     public static void main(String[] args) {
-        boolean result = checkAge(18);
-        System.out.println(result);
+        checkAge(18);
 
     }
 
